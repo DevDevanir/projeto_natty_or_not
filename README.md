@@ -1,3 +1,4 @@
+
 \# Detector "Natty or Not" de Imagens Corporais
 
 \#\# 📒 Descrição  
@@ -87,3 +88,6 @@ Este projeto destaca o poder das IAs Generativas não apenas na criação de con
 
 \---  
 \*Este README é um template. Adapte-o com os detalhes específicos do seu desenvolvimento e descobertas.\*  
+
+# projeto_natty_or_not
+ 4c5afbacdae4b82c2ca52ade00ef78b18758a9e8
