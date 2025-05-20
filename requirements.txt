@@ -1,0 +1,12 @@
+Flask>=2.0
+Pillow>=9.0
+# Para o treinamento do modelo (instalar separadamente conforme guias):
+# torch>=1.9 (com suporte CUDA, se aplicável)
+# torchvision>=0.10 (com suporte CUDA, se aplicável)
+# detectron2 (seguir instruções de instalação do repositório oficial)
+# opencv-python
+
+# Para a geração de dataset (instalar separadamente conforme guias):
+# diffusers (se usar a biblioteca da Hugging Face para Stable Diffusion)
+# transformers
+# accelerate
